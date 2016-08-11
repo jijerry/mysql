@@ -2,7 +2,11 @@
 /**
  * Created by PhpStorm.
  * User: Administrator
- * Date: 2016/8/12
- * Time: 1:41
+ * Date: 2016/8/11
+ * Time: 1:03
  */
-echo "hello world";
+
+$db_hostname = "localhost";
+$db_database = "test";
+$db_username = "root";
+$db_password = "";
